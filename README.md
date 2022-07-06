@@ -1,6 +1,6 @@
 ### Contributor
-- Bryan Liauw
-- Dick Jovian
+- Bryan Liauw @bryanliauw
+- Dick Jovian @jovian6
 
 ### About
 Big Data Final Project to create Recommendation System using Alternating Least Squares. This Recommendation uses explicit data such as rating as input to methods. We use Pyspark to process this massive netflix data
